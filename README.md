@@ -2,9 +2,7 @@ This repository includes descriptions of our work and data from our project on i
 
 The data files included here map on to the tasks in the Gorilla Open Materials respository and outlined in our manuscript 'An Evaluation of Image Enhancements in Three-dimensional Computed Tomography Baggage Screening' as follows: 
 
-questionnaire-xbvt - Information and consent form
-
-questionnaire-pgup - Debrief form
+questionnaire-xbvt - Information and consent form, questionnaire-pgup - Debrief form
 
 task-jd1t - Browser compatibility check, no significant data recorded
 
@@ -39,10 +37,7 @@ task-6v2p - Experiment 1 and 2 segmentation phase
 
 task-h1pz - Enforced ten minute break, no significant data recorded
 
-task-9fig - Experiment 1 test phase (trial order 1)
-task-rrk4 - Experiment 1 test phase (trial order 2)
-task-3nvc - Experiment 2 test phase (trial order 1)
-task-cu39 - Experiment 2 test phase (trial order 2)
+task-9fig - Experiment 1 test phase (trial order 1), task-rrk4 - Experiment 1 test phase (trial order 2), task-3nvc - Experiment 2 test phase (trial order 1), task-cu39 - Experiment 2 test phase (trial order 2)
  
   	Key variables:
 	'randomiser-s8gy' - The experiment and trial order the participant was assigned values with 'slice' indicate Experiment 1 and values with 'mask' indicate Experiment 2		
